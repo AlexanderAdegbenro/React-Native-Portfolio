@@ -72,3 +72,17 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+node_modules/
+ios/
+android/
+.env
+expo
+.expo
+npm-debug.log
+node_modules/
+ios/
+android/
+.env
+expo
+.expo
+.expo
